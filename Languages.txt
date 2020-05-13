@@ -7,4 +7,8 @@ Below are the frameworks that I know :
 1. Spring
 2. Hibernate
 
-This is all
+Below are the databases that I know : 
+
+1. MySQL
+2. Oracle
+3. PostgreSQL
